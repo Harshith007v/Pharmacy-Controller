@@ -1,0 +1,114 @@
+Order Number : 777
+Customer Name : Alex
+Date : 12/12/12
+Number Of Medicine Ordered : 1
+Medicine Name : CITRA C
+Medicine Quantity : 2
+Total Price : Rs. 400.00
+
+==================================
+
+Order Number : 778
+Customer Name : Harsha
+Date : 23/6/23
+Number Of Medicine Ordered : 1
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Total Price : Rs. 200.00
+
+==================================
+
+Order Number : 779
+Customer Name : Harshith
+Date : 12/6/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 1
+Medicine Name : Bupropion
+Medicine Quantity : 1
+Total Price : Rs. 700.00
+
+==================================
+
+Order Number : 780
+Customer Name : Harsha
+Date : 7/5/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 2
+Medicine Name : Zoloft
+Medicine Quantity : 3
+Total Price : Rs. 1600.00
+
+==================================
+
+Order Number : 781
+Customer Name : Harsha
+Date : 7/5/23
+Number Of Medicine Ordered : 1
+Medicine Name : Sumitop
+Medicine Quantity : 2
+Total Price : Rs. 1000.00
+
+==================================
+
+Order Number : 782
+Customer Name : Harsha
+Date : 7/5/23
+Number Of Medicine Ordered : 2
+Order Number : 783
+Customer Name : Harsha
+Date : 7/5/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 2
+Medicine Name : Sumitop
+Medicine Quantity : 1
+Total Price : Rs. 900.00
+
+==================================
+
+Customer Name : Harshith
+Date : 8/5/23
+Number Of Medicine Ordered : 1
+Medicine Name : Zoloft
+Medicine Quantity : 2
+Total Price : Rs. 800.00
+
+==================================
+
+Order Number : 784
+Customer Name : alex
+Date : 23/7/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 3
+Medicine Name : Zoloft
+Medicine Quantity : 1
+Total Price : Rs. 1000.00
+
+==================================
+
+Order Number : 785
+Customer Name : harsha
+Date : 14/7/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 3
+Medicine Name : Zoloft
+Medicine Quantity : 2
+Total Price : Rs. 1400.00
+
+==================================
+
+Customer Name : harshith
+Date : 14/7/23
+Number Of Medicine Ordered : 2
+Medicine Name : Dolo 650
+Medicine Quantity : 2
+Medicine Name : Bupropion
+Medicine Quantity : 4
+Total Price : Rs. 2400.00
+
+==================================
+
